@@ -1,0 +1,1 @@
+This here be the Odin Recipes website HTML review thinger. I'm gonna display my ability to make a boring ass plaintext website using basic html. It's gonna be lit fam.
