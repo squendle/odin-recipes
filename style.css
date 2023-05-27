@@ -1,0 +1,66 @@
+* {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: serif;
+    color: green;
+    font-weight: 800;
+}
+
+h2 {
+    font-family: serif;
+    color: yellow;
+    font-weight: 800;
+}
+
+h3 {
+    font-family: serif;
+    color: green;
+    font-weight: 800;
+}
+
+.link-list {
+    background-color: green;
+}
+
+a:link {
+    color:#ffffff;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    font-weight: 700;
+    color: darkred;
+}
+
+a:hover {
+    text-decoration: none;
+    font-weight: 700;
+    color: darkgreen
+}
+
+a:active {
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.laz{
+    width: auto;
+    height: 400px;
+
+}
+
+.tofu{
+    width: auto;
+    height: 400px;
+}
+
+.mush {
+    width: auto;
+    height: 400px;
+}
